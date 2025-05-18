@@ -1,16 +1,31 @@
-## Hi there 👋
+## I'm Amir Parsa (he/him)  
+I'm an Iranian 🇮🇷 born in 2005, currently living in Isfahan.
+I'm a passionate Front-End Software Engineer focused on helping others navigate the complexities of web development.
 
-<!--
-**Zeronevision/Zeronevision** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## GitHub Stats
+💻 **Frontend** 
+I'm worked with:
+- Css 3 
+- Bootstrap  
+- Sass  
+- JavaScript  
+- TypeScript  
+- React  
+- Next.js  
 
-Here are some ideas to get you started:
+🛠️ **Backend**  
+I'm worked with:
+- PHP
+- C#
+- C++
+- Laravel
+- Asp.net  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📝 **Database**  
+- MySQL
+
+✨ **API**  
+- Restful
+
+🤝 **Let's Connect**  
+- 💬 Ask me about frontend development, accessibility, or open-source projects.  
