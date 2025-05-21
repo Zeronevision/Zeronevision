@@ -4,7 +4,6 @@ I'm a passionate Front-End Software Engineer focused on helping others navigate 
 
 ## GitHub Stats
 💻 **Frontend** 
-I'm worked with:
 - Css 3 
 - Bootstrap  
 - Sass  
@@ -12,9 +11,8 @@ I'm worked with:
 - TypeScript  
 - React  
 - Next.js  
-
+- Ionic
 🛠️ **Backend**  
-I'm worked with:
 - PHP
 - C#
 - C++
@@ -22,8 +20,9 @@ I'm worked with:
 - Asp.net  
 
 📝 **Database**  
-- MySQL
-
+- MariaDB
+- Mongo
+  
 ✨ **API**  
 - Restful
 
