@@ -12,6 +12,7 @@ I'm a passionate Front-End Software Engineer focused on helping others navigate 
 - React  
 - Next.js  
 - Ionic
+
 🛠️ **Backend**  
 - PHP
 - C#
